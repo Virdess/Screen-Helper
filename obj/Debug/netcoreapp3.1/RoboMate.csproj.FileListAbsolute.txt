@@ -1,0 +1,202 @@
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.exe
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\View\Form1.cs
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.deps.json
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.json
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.dev.json
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.AssemblyReference.cache
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.Form1.resources
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.Form2.resources
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.TrayIconApplicationContext.resources
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.GenerateResource.cache
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfoInputs.cache
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfo.cs
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CoreCompileInputs.cache
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CopyComplete
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\Gh0st\Desktop\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.genruntimeconfig.cache
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.exe
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\View\Form1.cs
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.deps.json
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.json
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.dev.json
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.AssemblyReference.cache
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.Form1.resources
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.Form2.resources
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.TrayIconApplicationContext.resources
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.GenerateResource.cache
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfoInputs.cache
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfo.cs
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CoreCompileInputs.cache
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CopyComplete
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\Gh0st\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.genruntimeconfig.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.exe
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\View\Form1.cs
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.deps.json
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.json
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.dev.json
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.AssemblyReference.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.Form1.resources
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.Form2.resources
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.TrayIconApplicationContext.resources
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.GenerateResource.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfoInputs.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfo.cs
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CoreCompileInputs.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CopyComplete
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\ScreenMate-master\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.genruntimeconfig.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.exe
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\View\Form1.cs
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.deps.json
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.json
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.dev.json
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.AssemblyReference.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.Form1.resources
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.Form2.resources
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.TrayIconApplicationContext.resources
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.GenerateResource.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfoInputs.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfo.cs
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CoreCompileInputs.cache
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CopyComplete
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\АуельбековА\Desktop\работают\ScreenMate-master (7)\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.genruntimeconfig.cache
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.exe
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\View\Form1.cs
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.deps.json
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.json
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.dev.json
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.pdb
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.AssemblyReference.cache
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.Form1.resources
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.Form2.resources
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.TrayIconApplicationContext.resources
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.GenerateResource.cache
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.GeneratedMSBuildEditorConfig.editorconfig
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfoInputs.cache
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfo.cs
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CoreCompileInputs.cache
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.dll
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.pdb
+B:\курсовая\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.genruntimeconfig.cache
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.exe
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\View\Form1.cs
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.deps.json
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.json
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.dev.json
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.AssemblyReference.cache
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.Form1.resources
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.Form2.resources
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.TrayIconApplicationContext.resources
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.GenerateResource.cache
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfoInputs.cache
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfo.cs
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CoreCompileInputs.cache
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CopyComplete
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.genruntimeconfig.cache
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.AssemblyReference.cache
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.Form1.resources
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.Form2.resources
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.TrayIconApplicationContext.resources
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.GenerateResource.cache
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfoInputs.cache
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfo.cs
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CoreCompileInputs.cache
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.exe
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\View\Form1.cs
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.deps.json
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.json
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.dev.json
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Speech.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.genruntimeconfig.cache
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\АуельбековА\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Speech.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Speech.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+B:\курсовая\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Speech.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.AssemblyReference.cache
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.Form1.resources
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.Form2.resources
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.View.TrayIconApplicationContext.resources
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.GenerateResource.cache
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfoInputs.cache
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.AssemblyInfo.cs
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CoreCompileInputs.cache
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.exe
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\View\Form1.cs
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.deps.json
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.json
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.dev.json
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.pdb
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Speech.dll
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.csproj.CopyComplete
+C:\Users\Gh0st\Desktop\обездвиженный\RoboMate\obj\Debug\netcoreapp3.1\RoboMate.genruntimeconfig.cache

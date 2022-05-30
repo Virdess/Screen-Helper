@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rKQ7V8wVbYGNkyBlBuCqUOXGso7LA3F1FzGKWyv6oOb038LeAMnLwKxl07hUU07g/G/Xkd5ux+rI1dbSbIa6sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\а\\Desktop\\обездвиженный\\RoboMate\\RoboMate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\а\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\а\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\View\Form1.cs
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Tomadochi.exe
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Tomadochi.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Tomadochi.deps.json
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Tomadochi.runtimeconfig.json
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Tomadochi.pdb
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Speech.dll

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RoboMate</id>
+    <version>1.0.0</version>
+    <authors>RoboMate</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Speech" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.runtimeconfig.json" target="lib\netcoreapp3.1\RoboMate.runtimeconfig.json" />
+    <file src="C:\Users\а\Desktop\обездвиженный\RoboMate\bin\Debug\netcoreapp3.1\RoboMate.dll" target="lib\netcoreapp3.1\RoboMate.dll" />
+  </files>
+</package>
