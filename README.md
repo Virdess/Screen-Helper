@@ -15,3 +15,4 @@ I have a lot of ideas, but I can't bring them to life alone.
 
 I want to make an application that will help people who do not know how to work with a PC to work with it without inconvenience. And for everyone else to make it more convenient to use the computer.
 
+I hope to make a big open-source project. :)
